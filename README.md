@@ -1,4 +1,4 @@
-## Hi, I’m K ✌️
+## Hi, I’m Krishna KC✌️
 
 IT Engineer (BEng) with a strong foundation in software development, web technologies, and networking.
 I enjoy building practical applications and learning by doing.
