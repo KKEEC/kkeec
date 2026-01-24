@@ -10,9 +10,11 @@ I enjoy building practical applications and learning by doing.
 - **Tools:** Git, GitHub, Google Workspace, MS Office
 
 ### 🚀 What I’m Working On
-- Improving full-stack web development skills
+- Improving full-stack web development skills through the [Full Stack Open](https://fullstackopen.com/en/) course
+- Learning Python fundamentals via Harvard’s [CS50 Python Introduction](https://cs50.harvard.edu/python/)
 - Building small, focused projects with clean code
 - Learning best practices in software engineering
+
 
 ### 📂 Projects
 
